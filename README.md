@@ -1,2 +1,4 @@
 # GA_PMX
-Genetic Alogrithm using PMX crossover operator
+Genetic Algorithm using PMX crossover operator.
+
+Developed in collaboration with: [wickstjo](https://github.com/wickstjo)
